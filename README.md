@@ -24,4 +24,5 @@ formation. This research provides a data-driven approach that integrates machine
 learning with metallurgical principles (DFT, CNT) to enhance the prediction of
 sigma phase transformation. The resulting insights can aid in optimizing steel
 compositions and heat treatment processes to mitigate sigma phase embrittlement
-and improve the performance of stainless steels in various industrial applications.
+and improve the performance of stainless steels in various industrial applications. do see ENDREVIEWREPORT.pdf for more information 
+
